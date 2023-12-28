@@ -5,13 +5,13 @@
 * 再以人工分類標示併選出非政治人物、非政府、非政黨的粉絲專頁與媒體粉絲專頁。
 * 這份資料為 READr 2024 臉書廣告專題所用
 
-** id 檔案庫不重複編號
-** page_id 粉絲專頁編號
-** page_name 粉絲專頁名稱
-** ad_creation_time 廣告建立日期
-** ad_creative_bodies 廣告文字內容
-** spend.lower_bound,spend.upper_bound 廣告支出區間（新台幣）
-** impressions.lower_bound,impressions.upper_bound 觸及曝光區間
-** bylines 廣告主／出資者
-** NN1 NN2 NN3 NN4 NN5 廣告庫中的粉絲專頁歷史名稱
-** type 人工標示粉絲專頁類別
+1. id 檔案庫不重複編號
+2. page_id 粉絲專頁編號
+3. page_name 粉絲專頁名稱
+4. ad_creation_time 廣告建立日期
+5. ad_creative_bodies 廣告文字內容
+6. spend.lower_bound,spend.upper_bound 廣告支出區間（新台幣）
+8. impressions.lower_bound,impressions.upper_bound 觸及曝光區間
+10. bylines 廣告主／出資者
+11. NN1 NN2 NN3 NN4 NN5 廣告庫中的粉絲專頁歷史名稱
+12. type 人工標示粉絲專頁類別
